@@ -1,0 +1,11 @@
+@media only screen and (max-width:480px) {
+    main {
+        width: 95%;
+
+    }
+
+.photo {
+    width: 95%;
+    padding: 30px ;
+}
+}
